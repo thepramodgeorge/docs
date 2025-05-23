@@ -53,6 +53,15 @@
             ]
           }
         ]
+       },
+      {
+        "tab": "Evallo",
+        "groups": [
+          {
+            "group": "Overview",
+            "pages": ["evallo/introduction"]
+          }
+        ]
       }
     ],
     "global": {
